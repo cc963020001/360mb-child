@@ -87,9 +87,9 @@
 }
 
 .off-canvas .canvas-close,.ripro-dark .navbar .navbar-button {
-	color: #ff142b;
+	color: #ffffff;
 	box-shadow: 4px 3px 10px #40404024;
-	border: 2px solid #ffffff;
+	border: 1px solid #ffffff;
 	background: linear-gradient(125deg,#333 0,#000 100%)
 }
 
@@ -5442,6 +5442,13 @@ a.post-list-cat-item {
 	font-size: 12px;
 	margin-right: 5px;
 }
+/* logo去边*/
+.navbar .logo {
+    margin-right: auto;
+    max-width: 120px;
+    height: auto;
+}
+
 /* logo扫光*/
 .logo-wrapper {
 	position: relative;
