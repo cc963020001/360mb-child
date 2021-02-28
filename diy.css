@@ -220,7 +220,8 @@
 	font-weight: 700;
 	line-height: 39px;
 	overflow: hidden;
-	margin: 0
+	margin: 0;
+	background-image: url(/wp-content/images/logo/logo.svg)
 }
 
 .logo-wrappers::before {
@@ -3046,7 +3047,7 @@ ul.plinks li.linkcat ul li a img {
 .aini_foot_nav li a {
 	width: 100%;
 	display: block;
-	color: #888
+	color: #fff
 }
 
 .aini_foot_nav li i {
