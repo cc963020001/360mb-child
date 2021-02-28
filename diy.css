@@ -219,9 +219,7 @@
 	font-size: 2em;
 	font-weight: 700;
 	line-height: 39px;
-	overflow: hidden;
-	margin: 0;
-	background-image: url(/wp-content/images/logo/logo.svg)
+	overflow: hidden
 }
 
 .logo-wrappers::before {
