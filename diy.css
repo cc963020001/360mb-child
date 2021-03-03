@@ -615,6 +615,8 @@ to{-webkit-transform:translateX(-100%);-ms-transform:translateX(-100%);transform
 .home-filter--content:before{background-color:rgba(91,91,91,0)}
 .home-filter--content{background:linear-gradient(to right,#fff0,#fff0,#fff0)}
 .ripro-dark .home-filter--content{background:linear-gradient(to right,#232425,#232425,#232425)}
+.home-filter--content{background-position:center center;background-size:cover;background-repeat:no-repeat;background-attachment:fixed}
+.ripro-dark .home-filter--content{background-position:center center;background-size:cover;background-repeat:no-repeat;background-attachment:fixed}
 .home-filter--content .form-box{margin-right:0;margin-left:0}
 .btn--primary,.button{background:#ff142b}
 @media (max-width:768px){.home-filter--content .form-box{margin-right:10px;margin-left:10px}
@@ -777,7 +779,6 @@ a.post-list-cat-item{color:#fff;padding:0 5px;height:20px;line-height:20px;displ
 .edit--profile-links li a{padding:12px;display:block;-webkit-border-radius:4px;border-radius:4px;-webkit-transition:.3s ease;-o-transition:.3s ease;transition:.3s ease;text-align:center}
 .edit--profile-links li a.active{color:#fff;background:#ff142b}
 .term-bar:before{background:0 0!important}
-.home-filter--content{background-position:center center;background-size:cover;background-repeat:no-repeat;background-attachment:fixed}
 .home-filter--content .focusbox-title{text-align:center;font-size:25px!important;margin-bottom:40px!important;letter-spacing:0!important}
 .home-filter--content .focusbox-title:before{content:"//";font-weight:900;position:relative;left:-17px;opacity:.5}
 .home-filter--content .focusbox-title:after{content:"//";font-weight:900;position:relative;left:17px;opacity:.5}
